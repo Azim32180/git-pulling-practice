@@ -1,3 +1,3 @@
 # git-pulling-practice
 
-made changes
+made changes. This is Jordi typing this.

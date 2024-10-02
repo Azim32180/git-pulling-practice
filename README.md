@@ -1,3 +1,3 @@
-# git-pulling-practice
+# git-pulling-practice JORDI DIAZ
 
-made changes. This is Jordi typing this.
+made changes.
